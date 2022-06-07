@@ -1,1 +1,11 @@
 c:\users\tecnico\documents\visual studio 2015\Projects\TCC teste\TCC teste\bin\Debug\TCC teste.exe.config
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\bin\Debug\TCC teste.exe.config
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\bin\Debug\TCC teste.exe
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\bin\Debug\TCC teste.pdb
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\obj\Debug\TCC teste.csprojResolveAssemblyReference.cache
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\obj\Debug\TCC_teste.Form1.resources
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\obj\Debug\TCC_teste.Menu.resources
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\obj\Debug\TCC_teste.Properties.Resources.resources
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\obj\Debug\TCC teste.csproj.GenerateResource.Cache
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\obj\Debug\TCC teste.exe
+D:\DesenvolvimentoDeSistemas\2ºModulo\DES\TelaLogin\TCC-C-\TCC teste\obj\Debug\TCC teste.pdb
