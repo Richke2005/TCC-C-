@@ -20,10 +20,10 @@ namespace TCC_JEJE_1._2
         private void button1_Click(object sender, EventArgs e)
         {
             if (textBox1.Text == "vinicius.vieira62@etec.sp.gov.br") ;
-                popupes OutroForm = new popupes();
-                OutroForm.ShowDialog();
-                Close();
-            }
+            popupes OutroForm = new popupes();
+            OutroForm.ShowDialog();
+            Close();
+        }
 
         private void label3_Click(object sender, EventArgs e)
         {
@@ -37,8 +37,12 @@ namespace TCC_JEJE_1._2
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("Código de recuperação enviado com sucesso");
+            popupes OutroForm = new popupes();
+            OutroForm.ShowDialog();
+            Close();
         }
+    }
+}
         
 
         
